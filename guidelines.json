@@ -1,0 +1,1110 @@
+[
+  {
+    "id": "1",
+    "category": "CARDIOVASCULAR DISEASES",
+    "condition": "Acute Rheumatic Fever (ARF) - Prevention of ARF Or Group A Streptococcal infection",
+    "organisms": "Group A Streptococcus ",
+    "preferred": "Penicillin V 500mg PO q12hrs for 10 days OR Benzathine Penicillin G 1.2 MU IM q24hrs ",
+    "alternative": "For non-severe allergy: Cephalexin 1g PO q12hrs for 10days \nFor Severe Allergy: Azithromycin 500mg PO D1 then 250mg q24hrs for D2-4 ",
+    "cautions": "Prevents ARF if started within 8 days of sore throat onset "
+  },
+  {
+    "id": "2",
+    "category": "CARDIOVASCULAR DISEASES",
+    "condition": "Acute Rheumatic Fever (ARF) - Secondary Prophylaxis",
+    "organisms": "Group A Streptococcus ",
+    "preferred": "Benzathine Penicillin G 1.2 MU IM q3-4 weeks ",
+    "alternative": "Penicillin V 250mg PO q12hrs \nFor Penicillin Allergy: Erythromycin 800mg PO q12h ",
+    "cautions": "IM preferred for adherence ",
+    "duration_table": [
+      { "type": "With Carditis & residual disease", "duration": "10 years to till 40 years of age (whichever longer) ", "risk": "Individualized depending on risk " },
+      { "type": "With Carditis, no residual disease", "duration": "10 years or till 21 years of age ", "risk": "" },
+      { "type": "No Carditis", "duration": "5 years or till 21 years of age ", "risk": "" }
+    ]
+  },
+  {
+    "id": "3",
+    "category": "CARDIOVASCULAR DISEASES",
+    "condition": "Infective Endocarditis - Native/Late Prosthetic (>12 months)",
+    "organisms": "Empirical Therapy ",
+    "preferred": "Ceftriaxone 2gm IV q24hrs PLUS Vancomycin 1gm IV q8hrs ",
+    "alternative": "Vancomycin 30-60mg/kg/day IV q8-12hrs PLUS Gentamicin 3 mg/kg IV q24hrs ",
+    "cautions": "Suspected Staph aureus: add Cloxacillin "
+  },
+  {
+    "id": "4",
+    "category": "CARDIOVASCULAR DISEASES",
+    "condition": "Infective Endocarditis - Early Prosthetic (<12 months) / Hospital Acquired",
+    "organisms": "Empirical Therapy ",
+    "preferred": "Vancomycin 1gm IV q 8hrs PLUS Gentamicin 3 mg/kg IV q24hrs PLUS Rifampicin* 900-1200mg q8-12 hours (start after 3-5days of V,G) ",
+    "alternative": "",
+    "cautions": "*Rifampicin for prosthetic valve only "
+  },
+  {
+    "id": "5",
+    "category": "CARDIOVASCULAR DISEASES",
+    "condition": "Candida Endocarditis (Native or Prosthetic Valve) - Initial Phase",
+    "organisms": "Therapy for Candida Endocarditis ",
+    "preferred": "Amphotericin B deoxycholate 0.5-1 mg/kg q12hrs OR Liposomal Amp B 3-5 mg/kg IV q24hrs PLUS Flucytosine 25mg/kg PO q6hrs ",
+    "alternative": "",
+    "cautions": "Surgery mandatory. Flucytosine for synergy but causes marrow suppression "
+  },
+  {
+    "id": "6",
+    "category": "CARDIOVASCULAR DISEASES",
+    "condition": "Candida Endocarditis (Native or Prosthetic Valve) - Step-down Phase",
+    "organisms": "Therapy for Candida Endocarditis ",
+    "preferred": "Fluconazole (6-12mg/kg) 400-800mg PO q24hrs ",
+    "alternative": "",
+    "cautions": "After culture clearance. If valve not replaced -> lifelong suppression. Duration: ≥6 weeks after valve replacement "
+  },
+  {
+    "id": "7",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Acute Bacterial Meningitis (Empiric)",
+    "organisms": "Streptococcus pneumoniae (~50%), Neisseria meningitides (~25%), Listeria monocytogenes (~10%), Haemophilus influenza type b (<10%) ",
+    "preferred": "Ceftriaxone 2g IV q12hrs OR Cefotaxime 2g IV q6hrs PLUS Vancomycin, 15 mg/kg q12hrs for 10-14 days. \nIf Listeria monocytogenes is suspected (elderly > 60 years, alcoholic, pregnancy, immunocompromised) Add Ampicillin 2g IV q4h ",
+    "alternative": "Meropenem 2g IV q8hrs for 10-14days ",
+    "cautions": "Acute bacterial Meningitis is a medical emergency. Door to needle time is one hour. \nAdjunctive Therapy: Dexamethasone 10 mg (0.4mg/kg) every 6 hours for 4 days should ideally be started 20 min before, not later than concurrent with, the first dose of antibiotic (esp. if S. pneumoniae suspected) "
+  },
+  {
+    "id": "8",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Streptococcus pneumoniae Meningitis (Penicillin-susceptible)",
+    "organisms": "Causative Organism Isolated ",
+    "preferred": "Benzylpenicillin 4MU IV q4h ",
+    "alternative": "Cefepime 2g q8hrs OR Meropenem 2g q8hrs. ",
+    "cautions": "Duration: 2 weeks "
+  },
+  {
+    "id": "9",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Streptococcus pneumoniae Meningitis (Penicillin-resistant)",
+    "organisms": "Causative Organism Isolated ",
+    "preferred": "Ceftriaxone 2g q12hrs OR Cefotaxime 2g q24hrs ",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "10",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Streptococcus pneumoniae Meningitis (Cephalosporin-reduced sensitivity)",
+    "organisms": "Causative Organism Isolated ",
+    "preferred": "Vancomycin (25-30mg/kg loading, then 15-20mg/kg q8-12hrs), not more than 2gm per dose. PLUS Ceftriaxone 2gm IV q12hrs OR Cefotaxime 2gm IV q24hrs ",
+    "alternative": "",
+    "cautions": "MIC to third generation cephalosporin ≥1 mcg/ml "
+  },
+  {
+    "id": "11",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Neisseria meningitidis Meningitis",
+    "organisms": "Neisseria meningitidis ",
+    "preferred": "Benzylpenicillin 4MU IV q4h for 7days ",
+    "alternative": "If penicillin allergic: Ceftriaxone 2gm IV q12hrs OR Cefotaxime 2gm IV q24hrs ",
+    "cautions": ""
+  },
+  {
+    "id": "12",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Prophylaxis for house hold and close contacts of a case of Neisseria meningitidis Meningitis",
+    "organisms": "Neisseria meningitidis ",
+    "preferred": "Ciprofloxacin 500 PO q24hrs OR Ceftriaxone 250mg IM q24hrs for pregnant and lactating mothers. ",
+    "alternative": "Rifampicin 600mg PO q12hrs for 2 days (avoid in pregnancy) OR Azithromycin 500mg PO q24hrs. ",
+    "cautions": "Contact for > 8 hours and within 1 meter of the index case and contact with oropharyngeal secretions in the last 7 days before onset of symptoms up to 24 hours after appropriate antibiotics. "
+  },
+  {
+    "id": "13",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Listeria monocytogenes Meningitis",
+    "organisms": "Listeria monocytogenes ",
+    "preferred": "Ampicillin 2g IV q4hrs OR Benzylpenicillin 4MU IV q4hrs PLUS Gentamicin 5mg/kg/day IV q8hrs ",
+    "alternative": "TMP-SMX 10-20mg/kg/day TMP component q6-12hrs OR Meropenem 2g IV q8h. ",
+    "cautions": "Duration: For 3 weeks (Gentamicin ≥1 week until symptoms improve) "
+  },
+  {
+    "id": "14",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Haemophilus influenzae Meningitis",
+    "organisms": "Haemophilus influenzae ",
+    "preferred": "Ceftriaxone 2g q12hrs OR Cefotaxime 2g q6hrs ",
+    "alternative": "Cefepime 2g IV q8hrs ",
+    "cautions": "Duration: 7-10 days "
+  },
+  {
+    "id": "15",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Tuberculous Meningitis",
+    "organisms": "Mycobacterium tuberculosis ",
+    "preferred": "2HRZE + (7-10) HRE (Total 12 months) \nIsoniazid (H)-5mg/kg, Rifampicin (R)-10mg/kg, Ethambutol (E)-15 mg/kg, Pyrazinamide (Z)-25mg/kg \nSteroid: Dexamethasone - 0.3-0.4mg/kg/day for 2 weeks, then 0.2mg/kg/day for week 3, then 0.1 mg/kg/day for week 4, then 4mg per day and taper gradually and stop by 8 weeks. \nPyridoxine 10-50mg PO q24hrs needs to be prescribed together with Isoniazid ",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "16",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Cryptococcal Meningitis (Induction)",
+    "organisms": "Cryptococcus neoformans ",
+    "preferred": "Induction: Amphotericin B 0.7-1.0mg/kg/day IV q24hrs PLUS Flucytosine 100-150mg/kg/day PO q6hrs ",
+    "alternative": "Fluconazole 1200mg PO q24hrs PLUS 5-Flucytosine 100-150mg/kg/day PO q6hrs ",
+    "cautions": "(Refer to HIV Treatment Guidelines for details) \nDuration: Induction (4-6 weeks) -> Consolidation (8 weeks) -> Maintenance (up to 12 months) [cite: 255, 256]"
+  },
+  {
+    "id": "17",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Cryptococcal Meningitis (Consolidation / Maintenance)",
+    "organisms": "Cryptococcus neoformans [cite: 257]",
+    "preferred": "Consolidation: Fluconazole 400-800mg/day PO q24hrs \nMaintenance: Fluconazole 200mg/day PO q24hrs [cite: 257]",
+    "alternative": "OR Fluconazole 800-1200mg PO q24hrs for 4-6 weeks of induction therapy, then 8weeks of consolidation phase and 12months of maintenance [cite: 257]",
+    "cautions": ""
+  },
+  {
+    "id": "18",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Viral Encephalitis",
+    "organisms": "Herpes simplex, Varicella zoster [cite: 257]",
+    "preferred": "Acyclovir 10mg/kg IV q8h for 14-21 days [cite: 257]",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "19",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Brain Abscess / Subdural Empyema (Oral source)",
+    "organisms": "Streptococci, Staphylococci, Gram Negative Bacilli Anaerobes [cite: 257]",
+    "preferred": "Oral source: Combination of Ampicillin 2g q4-6hrs OR Ceftriaxone 2g q12hrs PLUS Metronidazole 500mg IV q8hrs for 4-8 weeks inclusive of min. IV 2weeks [cite: 257]",
+    "alternative": "",
+    "cautions": "*Add Cloxacillin if suspected hematogenous spread, post-neurosurgery or post penetrating injury. In post-neurosurgery or trauma, consider cover for Pseudomonas. [cite: 257]"
+  },
+  {
+    "id": "20",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Brain Abscess / Subdural Empyema (Sinus/ear source)",
+    "organisms": "Streptococci, Staphylococci, Gram Negative Bacilli Anaerobes [cite: 257]",
+    "preferred": "If source is Sinus/ear: Ceftriaxone 2gm IV q12hrs OR Cefotaxime 2g q4-6hrs PLUS Metronidazole 400mg IV q8hrs [cite: 257]",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "21",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Brain Abscess / Subdural Empyema (Hematogenous/trauma - community)",
+    "organisms": "Streptococci, Staphylococci, Gram Negative Bacilli Anaerobes [cite: 259]",
+    "preferred": "Hematogenous/trauma (community): Ceftriaxone 2gm IV q12hrs PLUS Cloxacillin 2g IV q4hrs PLUS Metronidazole 400mg q8hrs \nDuration 4-8 Weeks [cite: 259]",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "22",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Brain Abscess / Subdural Empyema (Hematogenous - hospital-acquired/post-neurosurgery)",
+    "organisms": "Streptococci, Staphylococci, Gram Negative Bacilli Anaerobes [cite: 259]",
+    "preferred": "Vancomycin 25-30mg/kg loading dose then 15-20mg/kg IV q8-12hrs; not to exceed 2gm per dose PLUS Meropenem 2 g IV q8h \nDuration 4-8 Weeks [cite: 259]",
+    "alternative": "Vancomycin 25-30mg/kg loading dose then 15-20mg/kg IV q8-12hrs; not to exceed 2gm per dose PLUS Ceftazidime 2gm IV q8hrs OR Cefepime 2gm IV q8hrs [cite: 259]",
+    "cautions": ""
+  },
+  {
+    "id": "23",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Spinal Epidural Abscess",
+    "organisms": "Staphylococci, Streptococci, GNB [cite: 259]",
+    "preferred": "Cloxacillin 2gm IV q4hrs OR If MRSA: Vancomycin 25-30mg/kg loading dose then 15-20mg/kg IV q8-12hrs; not to exceed 2gm per dose PLUS 3rd Gen Cephalosporin Ceftriaxone 2gm IV q12hrs [cite: 259]",
+    "alternative": "Vancomycin 25-30mg/kg loading dose then 15mg/kg IV q8-12hrs; not to exceed 2gm per dose PLUS Gentamicin 4-7 mg/kg/day IVq8hrs OR Ceftriaxone 2gm IV q12hrs OR Cefotaxime 2gm IV q4-6hrs [cite: 261]",
+    "cautions": "Duration: 2-6 weeks (IV 2 weeks minimum) \nVancomycin if suspecting MRSA or allergy to Cloxacillin. \n3rd Generation Cephalosporin if Gentamicin is contraindicated. [cite: 259, 261]"
+  },
+  {
+    "id": "24",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Healthcare-associated Ventriculitis/Meningitis",
+    "organisms": "Healthcare-associated [cite: 261]",
+    "preferred": "Ceftazidime 2gm IV q8hrs PLUS Vancomycin 25-30mg/kg loading dose then 15mg/kg IV q8-12hrs; not to exceed 2gm per dose [cite: 261]",
+    "alternative": "Meropenem 2gm IV q8hrs PLUS Vancomycin 25-30mg/kg loading dose then 15 mg/kg IV q8-12hrs; not to exceed 2gm per dose [cite: 261]",
+    "cautions": "cover Pseudomonas and MRSA [cite: 261]"
+  },
+  {
+    "id": "25",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Cranial Trauma (Open Fracture / Penetrating Injuries) - Mild to moderate",
+    "organisms": "Cranial Trauma [cite: 261]",
+    "preferred": "Mild to moderate: Amoxicillin-clavulanate 1.2gm IV q8hrs [cite: 261]",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "26",
+    "category": "CENTRAL NERVOUS INFECTIONS",
+    "condition": "Cranial Trauma (Open Fracture / Penetrating Injuries) - Severe/penetrating",
+    "organisms": "Cranial Trauma [cite: 261]",
+    "preferred": "Severe/penetrating: Ceftriaxone 1gm IV q12hrs PLUS Metronidazole 400mg IV q8hrs [cite: 261]",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "27",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "General Surgery - Procedures involving entry into lumen of gastrointestinal tract",
+    "organisms": "General Surgery ",
+    "preferred": "Cefazolin 2gm IV (3gm IV for patients weighing ≥120 kg) ",
+    "alternative": "Cefuroxime 1.5gm IV ",
+    "cautions": ""
+  },
+  {
+    "id": "28",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "General Surgery - Other GI Procedures without entry into gastrointestinal tract (for high-risk patients)",
+    "organisms": "General Surgery ",
+    "preferred": "Cefazolin 2gm IV (3gm IV for patients weighing ≥120 kg) ",
+    "alternative": "Cefuroxime 1.5gm IV ",
+    "cautions": ""
+  },
+  {
+    "id": "29",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "General Surgery - Laparoscopic surgery (Elective low risk)",
+    "organisms": "General Surgery ",
+    "preferred": "None ",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "30",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "General Surgery - Laparoscopic surgery (Elective high risk)",
+    "organisms": "General Surgery ",
+    "preferred": "Cefazolin 2gm ",
+    "alternative": "Ampicillin-sulbactam 3gm OR clindamycin 900mg ",
+    "cautions": ""
+  },
+  {
+    "id": "31",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "General Surgery - Appendectomy for uncomplicated appendicitis",
+    "organisms": "General Surgery ",
+    "preferred": "Cefazolin 2gm IV (3gm IV for patients weighing ≥120 kg) PLUS Metronidazole 500mg IV OR Ampicillin-sulbactam 3gm IV ",
+    "alternative": "Cefuroxime 1.5gm IV PLUS Metronidazole 500mg IV \nPenicillin allergy: Clindamycin 600-900mg IV PLUS Gentamicin 5mg/kg IV ",
+    "cautions": ""
+  },
+  {
+    "id": "32",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "General Surgery - Colorectal",
+    "organisms": "General Surgery ",
+    "preferred": "Cefazolin 2gm IV (3gm IV for patients weighing ≥120 kg) PLUS Metronidazole 500mg IV OR Ampicillin-sulbactam 3gm IV ",
+    "alternative": "Cefuroxime 1.5gm IV PLUS Metronidazole 500mg IV \nPenicillin allergy: Clindamycin 600-900mg IV PLUS Gentamicin 5mg/kg IV ",
+    "cautions": ""
+  },
+  {
+    "id": "33",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "General Surgery - Small Intestine (Non-obstructed)",
+    "organisms": "General Surgery ",
+    "preferred": "Non-obstructed: Cefazolin 2gm IV ",
+    "alternative": "Penicillin allergy: Clindamycin 600-900mg IV PLUS Gentamicin 5mg/kg IV ",
+    "cautions": ""
+  },
+  {
+    "id": "34",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "General Surgery - Small Intestine (Obstructed)",
+    "organisms": "General Surgery ",
+    "preferred": "Obstructed: Cefazolin 2gm PLUS Metronidazole 500mg ",
+    "alternative": "Metronidazole 500mg PLUS Gentamycin 5 mg/kg ",
+    "cautions": ""
+  },
+  {
+    "id": "35",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "General Surgery - Hernia repair with mesh",
+    "organisms": "General Surgery ",
+    "preferred": "Cefazolin 2gm IV (3gm IV for patients weighing ≥120 kg) ",
+    "alternative": "Amoxicillin-clavulanate 1.2gm IV OR Ampicillin-sulbactam 3gm IV ",
+    "cautions": "Includes laparoscopic repair. Single / stat dose only. "
+  },
+  {
+    "id": "36",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Breast cancer surgery",
+    "organisms": "Breast cancer surgery ",
+    "preferred": "Cefazolin 2gm IV (3gm IV for patients weighing ≥120 kg) ",
+    "alternative": "Amoxicillin-clavulanate 1.2gm IV OR Ampicillin-sulbactam 3gm IV ",
+    "cautions": "The benefits of routine postoperative antibiotic doses in reconstruction surgery are uncertain... if used, postoperative prophylaxis should not exceed 24 hours. "
+  },
+  {
+    "id": "37",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Head and Neck Surgery - Clean",
+    "organisms": "Head and Neck Surgery ",
+    "preferred": "Antibiotic not required ",
+    "alternative": "Antibiotic not required ",
+    "cautions": ""
+  },
+  {
+    "id": "38",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Head and Neck Surgery - Clean with placement of prosthesis",
+    "organisms": "Head and Neck Surgery ",
+    "preferred": "Cefazolin 2gm IV ",
+    "alternative": "Cefuroxime 1.5gm OR Clindamycin 900mg IV ",
+    "cautions": ""
+  },
+  {
+    "id": "39",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Head and Neck Surgery - Clean-contaminated cancer surgery",
+    "organisms": "Head and Neck Surgery ",
+    "preferred": "Cefazolin 2gm PLUS Metronidazole 500mg ",
+    "alternative": "Ampicillin-sulbactam 3gm OR clindamycin 900mg IV ",
+    "cautions": ""
+  },
+  {
+    "id": "40",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Neurosurgery - Elective craniotomy and cerebrospinal fluid-shunting procedures",
+    "organisms": "Neurosurgery [cite: 275]",
+    "preferred": "Cefazolin 2gm IV [cite: 275]",
+    "alternative": "Clindamycin 900 mg OR Vancomycin 15 mg/kg [cite: 275]",
+    "cautions": ""
+  },
+  {
+    "id": "41",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Neurosurgery - Implantation of intrathecal pumps",
+    "organisms": "Neurosurgery [cite: 275]",
+    "preferred": "Cefazolin 2gm IV [cite: 275]",
+    "alternative": "Clindamycin 900 mg OR Vancomycin 15 mg/kg [cite: 275]",
+    "cautions": ""
+  },
+  {
+    "id": "42",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Urological Surgery - Transrectal ultrasound and prostate biopsy",
+    "organisms": "Escherichia coli, Klebsiella spp., Proteus spp, Enterococcus, Pseudomonas [cite: 275]",
+    "preferred": "Ciprofloxacin 500mg PO q12hrs for 3 days (Start 24 hours before procedure) PLUS* Gentamicin 80mg IV q24hrs given 30-60 minutes before procedure [cite: 275]",
+    "alternative": "Targeted antibiotic therapy based on pre-operative rectal swab result [cite: 275]",
+    "cautions": "Consider povidone-iodine bowel preparation to further decrease infection risk. [cite: 275]"
+  },
+  {
+    "id": "43",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Urological Surgery - Cystoscopy / Urodynamic study",
+    "organisms": "Urological Surgery [cite: 275]",
+    "preferred": "Antibiotic not recommended [cite: 275]",
+    "alternative": "Antibiotic not recommended [cite: 275]",
+    "cautions": "Prophylaxis only for high-risk cases (Immunocompromised...): Cefuroxime 250mg PO stat. TMP-SMX 160/800 PO stat. If heart valve: Follow recommendation from SBE prophylaxis. [cite: 275]"
+  },
+  {
+    "id": "44",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Urological Surgery - Retrograde pyelogram/ Ureteric stenting",
+    "organisms": "Urological Surgery [cite: 278]",
+    "preferred": "Cefuroxime 250mg PO stat [cite: 278]",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "45",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Urological Surgery - Lower tract instrumentation with risk factors for infection",
+    "organisms": "Urological Surgery [cite: 278]",
+    "preferred": "Ciprofloxacin 400mg OR cefazolin 2gm [cite: 278]",
+    "alternative": "Gentamycin 5 mg/kg with or without clindamycin 600-900mg [cite: 278]",
+    "cautions": ""
+  },
+  {
+    "id": "46",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Urological Surgery - Clean without entry into urinary tract",
+    "organisms": "Urological Surgery [cite: 278]",
+    "preferred": "Cefazolin 2gm [cite: 278]",
+    "alternative": "Clindamycin 600-900mg [cite: 278]",
+    "cautions": ""
+  },
+  {
+    "id": "47",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Urological Surgery - Involving implanted prosthesis",
+    "organisms": "Urological Surgery [cite: 278]",
+    "preferred": "Cefazolin 2gm +/- Gentamycin 5mg/kg [cite: 278]",
+    "alternative": "Clindamycin 600-900mg +/- Gentamycin 5 mg/kg [cite: 278]",
+    "cautions": ""
+  },
+  {
+    "id": "48",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Urological Surgery - Clean with entry into urinary tract",
+    "organisms": "Urological Surgery [cite: 278]",
+    "preferred": "Cefazolin 2gm IV [cite: 278]",
+    "alternative": "Ciprofloxacin 500mg [cite: 278]",
+    "cautions": ""
+  },
+  {
+    "id": "49",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Urological Surgery - Clean-contaminated",
+    "organisms": "Urological Surgery [cite: 278]",
+    "preferred": "Cefazolin 2gm PLUS Metronidazole 500mg [cite: 278]",
+    "alternative": "Ciprofloxacin 500mg OR Clindamycin 600-900mg [cite: 278]",
+    "cautions": ""
+  },
+  {
+    "id": "50",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Endourology - Endourological surgery (PCNL, URS, RIRS, TURP)",
+    "organisms": "Escherichia coli, Klebsiella spp., Proteus spp., Enterococcus spp., Pseudomonas spp. [cite: 278]",
+    "preferred": "Ampicillin-sulbactam 3gm IV [cite: 278]",
+    "alternative": "Cefuroxime 1.5gm IV OR Ceftazidime 2gm IV (if urine grew Pseudomonas spp.) [cite: 278]",
+    "cautions": "Antibiotic selection to be determined based on patient's latest urine culture result. [cite: 278]"
+  },
+  {
+    "id": "51",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Open Surgery (Urology) - Clean operations",
+    "organisms": "Open Surgery [cite: 278]",
+    "preferred": "Cefazolin 2gm IV [cite: 278]",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "52",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Open Surgery (Urology) - Clean-contaminated (with opening of urinary tract)",
+    "organisms": "Escherichia coli, Klebsiella spp., Proteus spp., Enterococcus spp., Pseudomonas spp. ",
+    "preferred": "Ampicillin-sulbactam 3gm IV q8hrs for 1 day OR Cefazolin 2gm IV ",
+    "alternative": "Cefoperazone 1gm IV q12hrs for 1 day OR Ceftazidime 2gm q8hrs IV for 1day (if Pseudomonas spp is isolated from urine) ",
+    "cautions": ""
+  },
+  {
+    "id": "53",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Open Surgery (Urology) - Clean-contaminated (with use of bowel segments)",
+    "organisms": "Escherichia coli, Klebsiella spp., Proteus, Enterococcus, Pseudomonas ",
+    "preferred": "Cefazolin 2gm IV q12hrs OR Ampicillin-sulbactam 1.5gm IV q8hrs PLUS Metronidazole 500mg IV q8hrs ",
+    "alternative": "Gentamicin 1.5mg/kg IV q8hrs PLUS Metronidazole 500mg IV q8hrs OR Piperacillin-Tazobactam 4.5 gm IV q8hrs ",
+    "cautions": "Change to oral as feasible. For duration of catheter present. "
+  },
+  {
+    "id": "54",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Laparoscopic Surgery (Urology)",
+    "organisms": "Laparoscopic Surgery ",
+    "preferred": "Same as for open surgery ",
+    "alternative": "",
+    "cautions": "Depending on type of procedure performed whether clean or clean-contaminated. "
+  },
+  {
+    "id": "55",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "CA-UTI (Catheter-Associated UTI)",
+    "organisms": "CA-UTI ",
+    "preferred": "Nitrofurantoin 100mg PO q12hrs for 7 days OR Trimethoprim-sulfamethoxazole (PO) 160/800 q 12hrs for 7 days ",
+    "alternative": "Levofloxacin 500 mg PO q24 h 7 days OR Cephalexin: 500 mg q8-12 hrs (up to 1 g to 1.5 gm q6-8hrs for severe infections) for 7 to 10 days ",
+    "cautions": "Exchange catheter. Urine culture should be obtained from the freshly placed catheter prior to the initiation of antimicrobial therapy. "
+  },
+  {
+    "id": "56",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Plastic Surgery - Clean with risk factors or clean-contaminated",
+    "organisms": "Plastic Surgery ",
+    "preferred": "Cefazolin 2gm IV ",
+    "alternative": "Clindamycin 600-900mg ",
+    "cautions": ""
+  },
+  {
+    "id": "57",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Thoracic Surgery - Noncardiac procedures",
+    "organisms": "Thoracic Surgery ",
+    "preferred": "Cefazolin 2gm IV ",
+    "alternative": "Ampicillin-sulbactam 3 gm IV OR clindamycin 600-900mg ",
+    "cautions": ""
+  },
+  {
+    "id": "58",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Orthopedic Surgery - Patients requiring revision/reoperation (joint replacement)",
+    "organisms": "Orthopedic Surgery ",
+    "preferred": "Cefazolin 2gm IV PLUS Vancomycin 1gm IV infusion (1.5 gm for patients more than 80kg) \nThen (post-operative): Cefazolin 2gm IV 8-hourly for a further 2 doses PLUS Vancomycin 1gm IV infusion (1.5gm) single dose given 12 hours after initial dose [cite: 282, 284]",
+    "alternative": "Vancomycin 1gm IV infusion (1.5 gm for patients more than 80kg) \nTHEN (postoperative): Vancomycin 1gm IV infusion (1.5gm) single dose given 12 hours after initial dose [cite: 282, 284]",
+    "cautions": "Note: Pre-existing infections (known or suspected) - if present, use appropriate treatment regimen instead of prophylactic regimen for procedure. "
+  },
+  {
+    "id": "59",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Orthopedic Surgery - Routine arthroscopic procedures",
+    "organisms": "Orthopedic Surgery ",
+    "preferred": "Prophylaxis NOT recommended ",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "60",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Orthopedic Surgery - Spinal procedures",
+    "organisms": "Orthopedic Surgery ",
+    "preferred": "Cefazolin 2gm IV \nHigh risk of MRSA infection: ADD Vancomycin 1g IV infusion (1.5g for patients more than 80kg) ",
+    "alternative": "Vancomycin 1g IV infusion (1.5g for patients more than 80kg) ",
+    "cautions": ""
+  },
+  {
+    "id": "61",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Orthopedic Surgery - Internal fixation of fractures of large bones / Prosthetic insertion",
+    "organisms": "Orthopedic Surgery ",
+    "preferred": "Cefazolin 2gm IV \nHigh risk of MRSA infection: ADD Vancomycin 1g IV infusion (1.5gm for patients more than 80kg) ",
+    "alternative": "Vancomycin 1g IV infusion (1.5g for patients more than 80kg) ",
+    "cautions": ""
+  },
+  {
+    "id": "62",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Orthopedic Surgery - Lower limb amputation",
+    "organisms": "Orthopedic Surgery ",
+    "preferred": "Cefazolin 2gm IV \nIf limb is ischaemic: ADD metronidazole 500mg IV infusion \nHigh risk of MRSA infection: ADD Vancomycin 1gm IV infusion (1.5gm) ",
+    "alternative": "Vancomycin 1gm IV infusion (1.5gm) \nGentamicin 2mg/kg IV (for procedures > 6 hours, consider 5 mg/kg dose) \nIf limb is ischaemic: ADD Metronidazole 500mg IV infusion ",
+    "cautions": ""
+  },
+  {
+    "id": "63",
+    "category": "CHEMOPROPHYLAXIS: SURGICAL",
+    "condition": "Orthopedic Surgery - Primary Total Hip Replacement (THR) / Total Knee Replacement (TKR)",
+    "organisms": "Orthopedic Surgery ",
+    "preferred": "Cefazolin 2gm IV \nTHEN (postoperative): cefazolin 2gm IV 8-hourly for up to 2 further doses \nHigh risk of MRSA infection: ADD Vancomycin 1gm IV infusion (1.5gm) ",
+    "alternative": "High Risk Penicillin / Cephalosporin Allergy*: Vancomycin 1g IV infusion (1.5gm) \nPOST-OP: no antibiotics required ",
+    "cautions": ""
+  },
+  {
+    "id": "64",
+    "category": "CHEMOPROPHYLAXIS: MEDICAL/NON-SURGICAL",
+    "condition": "Infective endocarditis - Prophylactic Regimens for High-Risk Cardiac Patients",
+    "organisms": "Infective endocarditis [cite: 304]",
+    "preferred": "Amoxicillin 2gm PO q24hrs 30-60 minutes before procedure OR Ampicillin 2gm IV q24hrs 30-60 minutes before procedure [cite: 304]",
+    "alternative": "Penicillin allergy: Clindamycin 600mg PO or IV q24hrs 30 to 60 minutes before procedure \nAlternative: Cefazolin 1gm IV q24hrs 30-60 minutes before procedure [cite: 304]",
+    "cautions": "Prophylaxis Recommended If Invasive procedures involving Gingival tissue... Maintenance of optimal oral hygiene... is more important than prophylactic antibiotics... [cite: 304]"
+  },
+  {
+    "id": "65",
+    "category": "CHEMOPROPHYLAXIS: MEDICAL/NON-SURGICAL",
+    "condition": "Secondary Prevention of Rheumatic Fever",
+    "organisms": "Rheumatic Fever [cite: 307]",
+    "preferred": "Parenteral Prophylaxis: Benzathine penicillin G 1.2MU IM every 3 to 4 weeks \nOral Prophylaxis: Phenoxymethylpenicillin (Penicillin V) 250mg PO q12h daily [cite: 307]",
+    "alternative": "Penicillin allergy: Erythromycin 800mg PO q12hrs twice daily. [cite: 307]",
+    "cautions": "",
+    "duration_table": [
+      { "type": "Rheumatic fever with carditis and residual heart disease (persistent valvular disease). [cite: 307]", "duration": "10 years or until 40 years of age, whichever is longer; sometimes lifelong prophylaxis. [cite: 307]" },
+      { "type": "Rheumatic fever with carditis but no residual heart disease (no valvular disease). [cite: 307]", "duration": "10 years or until 21 years of age, whichever is longer. [cite: 307]" },
+      { "type": "Rheumatic fever without carditis. [cite: 307]", "duration": "5 years or until 21 years of age whichever is longer. [cite: 307]" }
+    ]
+  },
+  {
+    "id": "66",
+    "category": "CHEMOPROPHYLAXIS: MEDICAL/NON-SURGICAL",
+    "condition": "PCP Prophylaxis",
+    "organisms": "PCP Prophylaxis [cite: 311, 312, 313]",
+    "preferred": "Cotrimoxazole DS 1-tab alternate day OR Cotrimoxazole SS One-tab q24hrs [cite: 314, 315, 316, 317]",
+    "alternative": "Dapsone 50 mg q12hrs or 100 mg q24hrs [cite: 318, 319]",
+    "cautions": "Caution: Rashes, neutropenia transaminitis [cite: 320]"
+  },
+  {
+    "id": "67",
+    "category": "CHEMOPROPHYLAXIS: MEDICAL/NON-SURGICAL",
+    "condition": "Azithromycin in Bronchiectasis",
+    "organisms": "Bronchiectasis [cite: 321]",
+    "preferred": "Azithromycin 500mg thrice weekly OR 250 mg once daily [cite: 326]",
+    "alternative": "",
+    "cautions": "Indications: ≥ 3 exacerbations per year, Do not have Pseudomonas aeruginosa, Those having Pseudomonas aeruginosa but not able to take inhalational antibiotics, Those who continue to have exacerbations despite inhalational antibiotic. If Tolerated/Exacerbations decreased -> Continued Indefinitely [cite: 322, 323, 324, 325, 327, 328]"
+  },
+  {
+    "id": "68",
+    "category": "CHEMOPROPHYLAXIS: MEDICAL/NON-SURGICAL",
+    "condition": "TB Preventive Therapy - 3HP (Three months of rifapentine plus isoniazid weekly)",
+    "organisms": "TB Preventive Therapy [cite: 330]",
+    "preferred": "Isoniazid (100mg) + Rifapentine (150mg). Dose by weight band. [cite: 337]",
+    "alternative": "If HP is not available, consider 3 HR for non-HIV individuals aged 2 -14 years. If HP is not available, consider 6 H for PLHIV of all ages. [cite: 337]",
+    "cautions": "1st choice of regimen for those aged 2-14 years or older (with or without HIV) [cite: 337]"
+  },
+  {
+    "id": "69",
+    "category": "CHEMOPROPHYLAXIS: MEDICAL/NON-SURGICAL",
+    "condition": "TB Preventive Therapy - 1HP (One month of rifapentine plus isoniazid daily)",
+    "organisms": "TB Preventive Therapy [cite: 330]",
+    "preferred": "Age ≥ 14 years: Isoniazid 300 mg/day + Rifapentine 600 mg/day [cite: 339]",
+    "alternative": "",
+    "cautions": "1st choice of regimen for those aged 14 or more (non-PLHIV) [cite: 339]"
+  },
+  {
+    "id": "70",
+    "category": "CHEMOPROPHYLAXIS: MEDICAL/NON-SURGICAL",
+    "condition": "TB Preventive Therapy - 3HR (Three months of daily rifampicin plus isoniazid)",
+    "organisms": "TB Preventive Therapy [cite: 330]",
+    "preferred": "Isoniazid: Age 10 years & older: 5 mg/kg/day, Age <10 years: 10 mg/kg/day \nRifampicin: Age 10 years & older: 10 mg/kg/day, Age <10 years: 15 mg/kg/day [cite: 339]",
+    "alternative": "",
+    "cautions": "Regimen of choice for non-PLHIV when the HP regimen is not available/applicable [cite: 339]"
+  },
+  {
+    "id": "71",
+    "category": "CHEMOPROPHYLAXIS: MEDICAL/NON-SURGICAL",
+    "condition": "TB Preventive Therapy - 6 months of levofloxacin daily",
+    "organisms": "TB Preventive Therapy [cite: 330]",
+    "preferred": "Age >14 years, by body weight: <46 kg, 750 mg/day; >45 kg, 1g/day \nAge <15 years (range, approx. 15-20 mg/kg/day) [cite: 341]",
+    "alternative": "",
+    "cautions": "Preventive treatment for contacts of MDR TB is only administered to individuals when mandatory test results confirm that the source case is sensitive to fluroquinolones. [cite: 341]"
+  },
+  {
+    "id": "72",
+    "category": "CHEMOPROPHYLAXIS: MEDICAL/NON-SURGICAL",
+    "condition": "TB Preventive Therapy - 6H (6 months of daily isoniazid monotherapy)",
+    "organisms": "TB Preventive Therapy [cite: 330]",
+    "preferred": "Age 10 years & older: 5 mg/kg/day \nAge <10 years: 10 mg/kg/day (range, 7-15 mg) [cite: 341]",
+    "alternative": "",
+    "cautions": "The regimen of choice for PLHIV, when 3 HP is not applicable or available. [cite: 341]"
+  },
+  {
+    "id": "73",
+    "category": "CHEMOPROPHYLAXIS: MEDICAL/NON-SURGICAL",
+    "condition": "Neisseria Meningitis Prophylaxis",
+    "organisms": "Neisseria Meningitis [cite: 344]",
+    "preferred": "Ciprofloxacin 500 PO q24hrs OR Ceftriaxone 250mg IM q24hrs for pregnant and lactating mothers [cite: 344]",
+    "alternative": "Rifampicin 600mg PO q12hrs for 2 days (avoid in pregnancy), OR Azithromycin 500mg PO q24hrs [cite: 344]",
+    "cautions": "Contact for > 8 hours and within 1 meter of the index case and contact with oropharyngeal secretions in the last 7 days before onset... [cite: 344]"
+  },
+  {
+    "id": "74",
+    "category": "CHEMOPROPHYLAXIS: MEDICAL/NON-SURGICAL",
+    "condition": "Spontaneous bacterial peritonitis Prophylaxis in cirrhosis - Long term",
+    "organisms": "Gram negative Bacilli (E. Coli, Klebseilla) [cite: 344]",
+    "preferred": "Long term prophylaxis : *Trimethoprim-sulfamethoxazole 160/800mg PO q24hrs [cite: 344]",
+    "alternative": "Alternative Oral Prophylaxis **Norfloxacin 400mg PO q24hrs [cite: 344]",
+    "cautions": "*Avoid in sulfa allergy; monitor for cytopenia and hyperkalemia \n** Not effective in settings with high fluoroquinolone resistance [cite: 344]"
+  },
+  {
+    "id": "75",
+    "category": "CHEMOPROPHYLAXIS: MEDICAL/NON-SURGICAL",
+    "condition": "Spontaneous bacterial peritonitis Prophylaxis in cirrhosis - Short-term",
+    "organisms": "Gram negative Bacilli (E. Coli, Klebseilla) [cite: 344]",
+    "preferred": "Short-term prophylaxis during GI bleeding ***Ceftriaxone 1 gm IV q24hrs [cite: 344]",
+    "alternative": "",
+    "cautions": "*** Use IV during active bleeding, then switch to oral (e.g., TMP-SMX/ Norflox) once stable and eating [cite: 344]"
+  },
+  {
+    "id": "76",
+    "category": "CHEMOPROPHYLAXIS: MEDICAL/NON-SURGICAL",
+    "condition": "Post-splenectomy patients",
+    "organisms": "Post-splenectomy [cite: 346]",
+    "preferred": "Phenoxymethylpenicillin (Penicillin V) 125mg PO q12hrs for ≤5 years old, 250mg PO q12hrs for >5 years old [cite: 346]",
+    "alternative": "Amoxicillin 20mg/kgday/ (250-500mg PO q12hrs; 500mg daily if poor compliance i.e., adult dose) \nPenicillin allergy: Erythromycin ethylsuccinate 15 20mg/kg/dose PO q12hrs [cite: 346]",
+    "cautions": "Risk of sepsis is lifelong but especially high in the first 2 years... Important adjunct: Immunization against Pneumococcus, Haemophilus, Meningococcus... [cite: 346]"
+  },
+  {
+    "id": "77",
+    "category": "CHEMOPROPHYLAXIS: MEDICAL/NON-SURGICAL",
+    "condition": "Upper gastrointestinal Bleeding in Cirrhotic liver disease",
+    "organisms": "Upper GI Bleeding [cite: 346]",
+    "preferred": "Prophylactic antibiotic Ceftriaxone 1g IV q24hrs before undergoing Endoscopy [cite: 346]",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "78",
+    "category": "CHEMOPROPHYLAXIS: MEDICAL/NON-SURGICAL",
+    "condition": "Prophylaxis for Recurrent UTI",
+    "organisms": "Recurrent UTI [cite: 346]",
+    "preferred": "Not promoted in view of antimicrobial resistance [cite: 346]",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "79",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "H. pylori Eradication - Standard Triple Therapy",
+    "organisms": "Helicobacter pylori [cite: 350]",
+    "preferred": "Standard Triple Therapy: Clarithromycin 500mg PO q12hrs PLUS Amoxicillin 1 gm PO q12hrs OR (Metronidazole 400mg PO q8hrs**) PLUS Proton Pump Inhibitor (PPI) for 14 days [cite: 350]",
+    "alternative": "Levofloxacin based Triple therapy: Levofloxacin 500mg PO q24hrs PLUS Amoxicillin 1 gm PO q12hrs PLUS Proton Pump Inhibitor (PPI) for 14 days [cite: 350]",
+    "cautions": "PPI Options: Pantoprazole, Omeprazole, Esomeprazole... **Metronidazole resistance is common in Nepal; avoid as first line... [cite: 350]"
+  },
+  {
+    "id": "80",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Oropharyngeal Candidiasis Treatment",
+    "organisms": "Candidiasis [cite: 350]",
+    "preferred": "Clotrimazole Mouth Paint 10-20 drops (about 1ml) apply locally q6hrs OR Nystatin suspension 4-6 lakh Units (4-6ml) locally q6hrs for 7-14 days [cite: 350, 352]",
+    "alternative": "Moderate to severe or resistant cased: Fluconazole 200mg orally on Day 1 then 100-200mg orally q24hrs for 7-14 days; up to 28 days if refractory [cite: 350, 352]",
+    "cautions": ""
+  },
+  {
+    "id": "81",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Esophageal Candidiasis Treatment",
+    "organisms": "Candidiasis [cite: 352]",
+    "preferred": "Fluconazole 400 mg IV/PO (Day 1), then 200-400 mg IV/PO q24hrs [cite: 352]",
+    "alternative": "Loading dose of 6mg/kg IV/PO q12hrs on day 1 followed by Voriconazole 200 mg IV/PO q12hrs [cite: 352]",
+    "cautions": "Duration: 14-21 days (up to 28 days if refractory) [cite: 352]"
+  },
+  {
+    "id": "82",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Acute Gastroenteritis (AGE) - Viral, E. coli, Food Poisoning",
+    "organisms": "Viral, Enterotoxigenic E. coli, Enteropathogenic E. coli, Food Poisoning [cite: 352]",
+    "preferred": "Antibiotics are generally NOT recommended. Focus is on oral or IV rehydration. [cite: 352]",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "83",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Cholera",
+    "organisms": "Vibrio cholerae [cite: 352]",
+    "preferred": "Doxycycline 300mg PO stat [cite: 352]",
+    "alternative": "Azithromycin 1 gm PO stat [cite: 352]",
+    "cautions": "Aggressive oral or IV rehydration remains the mainstay of cholera treatment. [cite: 352]"
+  },
+  {
+    "id": "84",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Bacillary Dysentery",
+    "organisms": "Shigella spp., Campylobacter*, Non-typhoidal salmonella [cite: 352]",
+    "preferred": "Azithromycin 1 gm po q24hrs for 3 days OR Cefixime 10-15mg/kg/day PO in divided doses q12hrs for 5 days (Max dose 400 mg po q12hrs) [cite: 352]",
+    "alternative": "Ceftriaxone 2 gm IV q24hrs for 5 days [cite: 352]",
+    "cautions": "Supportive care with hydration is critical. *For Campylobacter, Azithromycin is preferred. [cite: 352]"
+  },
+  {
+    "id": "85",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Suspected Shiga Toxin-Producing Escherichia coli (STEC) Bacillary Dysentery",
+    "organisms": "STEC [cite: 355]",
+    "preferred": "Antibiotics are generally NOT recommended because antibiotic use may increase the risk of HUS development. [cite: 355]",
+    "alternative": "",
+    "cautions": "Management is primarily supportive. [cite: 355]"
+  },
+  {
+    "id": "86",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Amoebic Dysentery",
+    "organisms": "Entamoeba histolytica [cite: 355]",
+    "preferred": "Metronidazole: 400 mg PO every 8 hours for 7-10 days OR Tinidazole: 2 gm PO q24hrs for 3 days OR Tab Secnidazole 2 gm po stat [cite: 355]",
+    "alternative": "Follow-up luminal agent: Metronidazole 400 mg PLUS Diloxanide furoate 500 mg PO every 8 hours for 10 days (to eradicate cysts) [cite: 355]",
+    "cautions": ""
+  },
+  {
+    "id": "87",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Giardiasis",
+    "organisms": "Giardia lamblia [cite: 355]",
+    "preferred": "Tinidazole: 2 gm PO single dose (stat) OR Metronidazole: 400 mg PO every 8 hours for 7-10 days [cite: 355]",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "88",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Enteric Fever",
+    "organisms": "Salmonella Typhi and Paratyphi [cite: 357]",
+    "preferred": "Cefixime 20 mg/kg/day PO for 7-14 days (oral therapy) (Max dose 400 mg po q12hrs) [cite: 357]",
+    "alternative": "*Azithromycin 1 gm PO stat on Day 1, then 500 mg PO daily for 5-7 days OR **Ceftriaxone 2 gm IV q12-24hrs for 7-14 days [cite: 357]",
+    "cautions": "* Effective against Salmonella Typhi, including some resistant strains. \n** Broad-spectrum; effective for severe or complicated cases. [cite: 357]"
+  },
+  {
+    "id": "89",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Clostridioides difficile Diarrhea (Mild-Moderate)",
+    "organisms": "Clostridioides difficile [cite: 357]",
+    "preferred": "Mild-Moderate: *Metronidazole 400 mg PO q8hrs for 10 days OR Oral Vancomycin 125 mg po q6hrs for 10 days [cite: 357]",
+    "alternative": "",
+    "cautions": "*Used in mild cases; less effective than vancomycin. Avoid anti-motility agents. [cite: 357]"
+  },
+  {
+    "id": "90",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Clostridioides difficile Diarrhea (Severe Disease)",
+    "organisms": "Clostridioides difficile [cite: 357]",
+    "preferred": "Severe Disease: ** Oral Vancomycin 500 mg PO q6hrs for 10 days + IV Metronidazole 400 mg q8hrs for 10 days [cite: 357]",
+    "alternative": "",
+    "cautions": "**First-line for severe infection; oral only (not IV). IV vancomycin is ineffective. [cite: 357]"
+  },
+  {
+    "id": "91",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Spontaneous bacterial peritonitis (SBP)",
+    "organisms": "Enterobacteriaceae (Escherichia coli, Klebsiella spp.) [cite: 360]",
+    "preferred": "Cefotaxime 2 gm IV q8hrs (First-line, especially for community-acquired SBP) OR **Ceftriaxone 2 gm IV q24hrs [cite: 360]",
+    "alternative": "*Piperacillin-tazobactam 4.5 gm IV q6-8hrs OR ***Meropenem 1 gm IV q8hrs [cite: 360]",
+    "cautions": "*Used in nosocomial or more resistant infections \n**Alternative to cefotaxime \n***Reserved for severe, healthcare-associated, or MDR infections [cite: 360]"
+  },
+  {
+    "id": "92",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Antibiotic in Cirrhotic Patients - Spontaneous Infections",
+    "organisms": "E. coli, Klebsiella, other GNB, Pseudomonas, anaerobes, MRSA, VRE [cite: 360]",
+    "preferred": "Cefotaxime 2gm IV q8hrs OR Ceftriaxone 2 gm IV q24hrs (First-line for community-acquired SBP) \nPiperacillin-tazobactam 4.5 g IV q6-8hrs (Nosocomial or if ESBL/MDR risk) \nMeropenem 1 g IV q8hrs (Reserved for severe or healthcare-associated) [cite: 360]",
+    "alternative": "Add Vancomycin / Teicoplanin / Linezolid (if MRSA suspected) \nAdd Inj Linezolid 600mg IV q12hrs (if prior VRE) [cite: 360]",
+    "cautions": ""
+  },
+  {
+    "id": "93",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Secondary Peritonitis / Intra-abdominal Abscess / GI Perforation",
+    "organisms": "Broad-spectrum: Gram-negative (incl. E. coli, Klebsiella), anaerobes, ESBLs, Candida, Enterococcus, MRSA [cite: 362]",
+    "preferred": "Piperacillin-tazobactam 4.5gm IV q6-8hrs (First-line for moderate to severe) \nMeropenem 1gm IV q8hrs (Reserved for critically ill or high-risk MDR) [cite: 362]",
+    "alternative": "Add Fluconazole (in very sick patients) \nAdd Vancomycin (if MRSA or resistant Gram-positive suspected) [cite: 362]",
+    "cautions": "Source Control is essential. Duration: 5-7 days if excellent source control, 2-3 weeks if poor response. [cite: 362]"
+  },
+  {
+    "id": "94",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Biliary Tract Infections (Cholecystitis, Cholangitis)",
+    "organisms": "Gram-positive, Gram-negative, anaerobes, ESBLs [cite: 365]",
+    "preferred": "Amoxicillin-clavulanate 1.2 gm IV q8hrs (Mild to moderate) OR Ceftriaxone 2 gm IV q24hrs PLUS Metronidazole 500 mg IV q8hrs \nPiperacillin-tazobactam 4.5 gm IV q6-8hrs (Moderate-severe or nosocomial) \nMeropenem 1-2 gm IV q8hrs (Critically ill or MDR suspected) [cite: 365]",
+    "alternative": "",
+    "cautions": "Duration: 7-10 days. Source control is essential. Biliary-enteric anastomosis present? -> Always include anaerobic coverage. [cite: 365]"
+  },
+  {
+    "id": "95",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Diverticulitis - Mild",
+    "organisms": "Gram-negative, anaerobes, some Gram-positive [cite: 365]",
+    "preferred": "Amoxicillin-clavulanate 625 mg PO q8hrs for 7 days (Suitable for outpatient) [cite: 365]",
+    "alternative": "Ciprofloxacin 500mg PO q12hrs PLUS Metronidazole 400 mg PO q8hrs for 7 days (Alternative oral) [cite: 367]",
+    "cautions": ""
+  },
+  {
+    "id": "96",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Diverticulitis - Moderate",
+    "organisms": "Gram-negative + Anaerobes, Broad-spectrum [cite: 367]",
+    "preferred": "Ceftriaxone 2gm IV q24hrs PLUS Metronidazole 500 mg IV q8hrs (IV inpatient) \nOR \nPiperacillin-tazobactam 4.5 gm IV q6-8hrs (Good empirical choice) [cite: 367]",
+    "alternative": "",
+    "cautions": "Step-down to oral antibiotics once afebrile [cite: 371]"
+  },
+  {
+    "id": "97",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Diverticulitis - Severe",
+    "organisms": "Broad-spectrum including ESBLS, anaerobes [cite: 367]",
+    "preferred": "Meropenem 1-2 gm IV q8hrs [cite: 367]",
+    "alternative": "",
+    "cautions": "For critically ill or suspected MDR organisms [cite: 367]"
+  },
+  {
+    "id": "98",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Liver Abscess (Pyogenic)",
+    "organisms": "Enterococci, Gram-negatives (E. coli, Klebsiella), anaerobes [cite: 373]",
+    "preferred": "Ampicillin 2 gm IV q4hrs PLUS Gentamicin 5 mg/kg/day IV q24hrs PLUS Metronidazole 500 mg IV q8hrs \nOR \nCeftriaxone 2 gm IV q24h PLUS Metronidazole 500 mg IV q8h \nOR \nCefotaxime 2 gm IV q8hrs PLUS Metronidazole 500 mg IV q8hrs [cite: 373]",
+    "alternative": "Piperacillin-tazobactam 4.5 g IV q6-8hrs OR Meropenem 1-2 gm IV q8hrs (Monotherapy option) [cite: 376]",
+    "cautions": "Treatment Duration: 2-4 weeks (well-drained) to 4-6 weeks (incomplete drainage). Drainage Indications: >5 cm abscess, No response in 72h... [cite: 376]"
+  },
+  {
+    "id": "99",
+    "category": "GASTROINTESTINAL TRACT INFECTIONS",
+    "condition": "Liver Abscess (Amoebic)",
+    "organisms": "Entamoeba histolytica (tissue trophozoites) [cite: 376]",
+    "preferred": "Metronidazole 500-750 mg IV q8hrs (First-line tissue amebicide; 7-10 days) \nOR \nTinidazole 2 gm PO q24hrs for 5 days [cite: 376]",
+    "alternative": "",
+    "cautions": "Luminal agent (Diloxanide furoate) must be added to eradicate cysts. [cite: 376]"
+  },
+  {
+    "id": "100",
+    "category": "INFECTIONS IN IMMUNOCOMPROMISED PATIENTS",
+    "condition": "Neutropenic Fever (Low Risk)",
+    "organisms": "Gram-negative bacteria (E. coli, Klebsiella, Pseudomonas...), Gram-positive (Staph, Strep) [cite: 409, 411]",
+    "preferred": "Amoxicillin-Clavulanate 625 mg PO q8hrs PLUS Ciprofloxacin 500 mg PO q12hrs [cite: 409]",
+    "alternative": "Levofloxacin 500 mg PO q24hrs OR Moxifloxacin 400 mg PO q24hrs [cite: 409]",
+    "cautions": "Risk Stratification: MASCC score ≥21 OR CISNE score < 3. Site of Care: Home or Hospital (short observation) [cite: 405, 407, 408]"
+  },
+  {
+    "id": "101",
+    "category": "INFECTIONS IN IMMUNOCOMPROMISED PATIENTS",
+    "condition": "Neutropenic Fever (High Risk - First-Line Monotherapy)",
+    "organisms": "Gram-negative, Gram-positive [cite: 409, 411]",
+    "preferred": "Cefepime 2 gm IV q8hrs OR Piperacillin-Tazobactam 4.5 gm IV q6-8hrs [cite: 411]",
+    "alternative": "Meropenem 1-2 gm IV q8hrs [cite: 411]",
+    "cautions": "High Risk Stratification: MASCC <21 or CISNE ≥3, Inpatient, Comorbidities... Site of Care: Always hospital-based. Start within 60 minutes. [cite: 411]"
+  },
+  {
+    "id": "102",
+    "category": "INFECTIONS IN IMMUNOCOMPROMISED PATIENTS",
+    "condition": "Neutropenic Fever (Escalation for Severe Sepsis / Persistent Fever)",
+    "organisms": "Gram-negative, Gram-positive, MRSA, VRE [cite: 413]",
+    "preferred": "Meropenem 2 gm IV q8hrs OR Imipenem 500mg q6hr \nPLUS \n*Vancomycin 15-20 mg/kg IV q8-12hrs (max 3g/day) [cite: 413]",
+    "alternative": "Alternative to Vancomycin: **Linezolid 600mg IV q12hrs [cite: 413]",
+    "cautions": "*Add Vancomycin if: Known/suspected MRSA, Catheter-related infections, Skin/soft tissue infections, Septic shock. \n**Use Linezolid if: no response to Vancomycin, VRE, VISA or VRSA [cite: 413]"
+  },
+  {
+    "id": "103",
+    "category": "INFECTIONS IN IMMUNOCOMPROMISED PATIENTS",
+    "condition": "Antifungal Therapy (First Line Empirical)",
+    "organisms": "Fungal [cite: 414]",
+    "preferred": "Lipsomal Amphotericin B 3-5 mg/kg IV q24hrs [cite: 424]",
+    "alternative": "Echinocandins (Caspofungin, Micafungin, Anidulafungin) [cite: 427]",
+    "cautions": "Start empirical antifungal if: Persistent fever > 4-7 days on broad spectrum antibiotics, Severe mucositis, Pulmonary infiltrates... [cite: 415, 418, 421]"
+  },
+  {
+    "id": "104",
+    "category": "INFECTIONS IN IMMUNOCOMPROMISED PATIENTS",
+    "condition": "Antifungal Therapy (Alternatives)",
+    "organisms": "Fungal [cite: 428]",
+    "preferred": "Voriconazole (Best alternative for invasive aspergillosis) [cite: 429]",
+    "alternative": "Amphotericin B deoxycholate (Dose: 0.5-1.5 mg/kg IV q24h) [cite: 429]",
+    "cautions": "Use if Toxicity or Refractory [cite: 428]"
+  },
+  {
+    "id": "105",
+    "category": "INFECTIONS IN IMMUNOCOMPROMISED PATIENTS",
+    "condition": "Carbapenem-Resistant Acinetobacter baumannii (CRAB) - Severe (HAP/VAP/BSI)",
+    "organisms": "CRAB [cite: 442]",
+    "preferred": "Use two in vitro active agents. \nOptions: \nTigecycline 200 mg IV loading, then 100 mg IV q12hrs \nOR \nMinocycline 200 mg IV loading, then 100 mg IV q12hrs \nPLUS \nAmpicillin-Sulbactam 6 g/3 g IV q8hrs (high-dose) \nOR \nPolymyxin B... [cite: 442]",
+    "alternative": "Aztreonam-Avibactam is preferred but Ceftazidime-Avibactam 2.5gm IV q8hrs Plus Aztreonam 1-2gm q6hrs can be used as an alternative. [cite: 442]",
+    "cautions": "Tigecycline should not be used for VAP if other options are available. [cite: 442]"
+  },
+  {
+    "id": "106",
+    "category": "INFECTIONS IN IMMUNOCOMPROMISED PATIENTS",
+    "condition": "Pan-Drug Resistant (PDR) CRAB",
+    "organisms": "PDR CRAB [cite: 445]",
+    "preferred": "Triple combination recommended: \nAmpicillin-Sulbactam 6 g/3 g IV q8h \nMeropenem 2 g IV q8h \nPolymyxin B 25000 IU/kg (2.5 mg/kg) loading... [cite: 445]",
+    "alternative": "Aztreonam-Avibactam is preferred but Ceftazidime-Avibactam 2.5gm IV q8hrs Plus Aztreonam 1-2gm q6hrs can be used as an alternative. [cite: 445]",
+    "cautions": "High-dose sulbactam has intrinsic activity against Acinetobacter spp [cite: 445]"
+  },
+  {
+    "id": "107",
+    "category": "INFECTIONS IN IMMUNOCOMPROMISED PATIENTS",
+    "condition": "Less Severe CRAB Infections - Bloodstream Infections (without severe sepsis)",
+    "organisms": "CRAB [cite: 445]",
+    "preferred": "Monotherapy with a susceptible agent: \nHigh-dose Ampicillin-sulbactam 1.5gm IV q6hrs \nOR \nPolymyxin B... \nOR \nTMP-SMX 960mg q12hrs (if susceptible) [cite: 445]",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "108",
+    "category": "INFECTIONS IN IMMUNOCOMPROMISED PATIENTS",
+    "condition": "Less Severe CRAB Infections - SSTI/IAI",
+    "organisms": "CRAB [cite: 447]",
+    "preferred": "Preferred options: \nAmpicillin-Sulbactam 6 g/3 gm IV q8hrs \nOR \nTigecycline 200 mg IV loading, then 100 mg IV q12hrs \nOR \nColistin [cite: 447]",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "109",
+    "category": "INFECTIONS IN IMMUNOCOMPROMISED PATIENTS",
+    "condition": "Less Severe CRAB Infections - UTI",
+    "organisms": "CRAB [cite: 447]",
+    "preferred": "If sensitive, monotherapy with: \nAmpicillin-Sulbactam \nOR \nAminoglycoside \nOR \nColistin [cite: 447]",
+    "alternative": "",
+    "cautions": "Tigecycline is not recommended for UTI (poor urinary concentration) [cite: 447]"
+  },
+  {
+    "id": "110",
+    "category": "ORAL/DENTAL INFECTIONS",
+    "condition": "Reversible / Irreversible Pulpitis",
+    "organisms": "Streptococci, Staphylococci, Anaerobes ",
+    "preferred": "Systemic antibiotic use not recommended ",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "111",
+    "category": "ORAL/DENTAL INFECTIONS",
+    "condition": "Localised Dentoalveolar Abscess (Superficial)",
+    "organisms": "Streptococci, Staphylococci, Anaerobes ",
+    "preferred": "Superficial: Systemic antibiotic use not recommended (unless medically compromised) ",
+    "alternative": "",
+    "cautions": ""
+  },
+  {
+    "id": "112",
+    "category": "ORAL/DENTAL INFECTIONS",
+    "condition": "Localised Dentoalveolar Abscess (Deep Infection / Medically Compromised)",
+    "organisms": "Streptococci, Staphylococci, Anaerobes ",
+    "preferred": "Amoxicillin 500mg PO q8hrs for 3-7days PLUS Metronidazole 400mg PO q8hrs for 3-7days \nOR \nAmoxicillin-clavulanate 625mg PO q8hrs for 3-7days ",
+    "alternative": "Penicillin allergy: \nCephalexin 500mg q12hrs for 3-7days \nOR \nAzithromycin 500mg q24hrs for 3-7 days \nOR \nClarithromycin 500mg q12hrs for 3-7 days ",
+    "cautions": ""
+  },
+  {
+    "id": "113",
+    "category": "ORAL/DENTAL INFECTIONS",
+    "condition": "Dry Socket",
+    "organisms": "Dry Socket ",
+    "preferred": "Systemic antibiotic use not recommended ",
+    "alternative": "",
+    "cautions": "Local treatment with saline irrigation and antiseptic/analgesic dressings and symptomatic relief of pain "
+  },
+  {
+    "id": "114",
+    "category": "ORAL/DENTAL INFECTIONS",
+    "condition": "Localised Pericoronitis",
+    "organisms": "Pericoronitis ",
+    "preferred": "Systemic antibiotic use not recommended in absence of regional or systemic signs ",
+    "alternative": "",
+    "cautions": "Local treatment with antiseptic irrigation and mouthwash and symptomatic relief of pain "
+  },
+  {
+    "id": "115",
+    "category": "ORAL/DENTAL INFECTIONS",
+    "condition": "Chronic Gingivitis",
+    "organisms": "Gingivitis ",
+    "preferred": "Systemic antibiotic use not recommended ",
+    "alternative": "",
+    "cautions": "Mechanical and chemical plaque control. *0.2% Aqueous Chlorhexidine gluconate... as an adjunct "
+  },
+  {
+    "id": "116",
+    "category": "ORAL/DENTAL INFECTIONS",
+    "condition": "Chronic Periodontitis",
+    "organisms": "Aggregatibacter actinomycetemcomitans, Porphyromonas gingivalis, Tannerella forsythia... ",
+    "preferred": "Systemic antibiotic use generally not recommended. \nIf acute/systemic/compromised: \nAmoxicillin 500mg PO q8hrs for 5-7days PLUS Metronidazole 400mg PO 8hrs for 5-7days \nOR \nAmoxicillin-clavulanate 625mg PO q8hrs for 5-7 days ",
+    "alternative": "Penicillin allergy: \nCephalexin 500mg q12hrs for 5-7days \nOR \nAzithromycin 500mg q24hrs for 5-7 days \nOR \nClarithromycin 500mg q12hrs for 5-7 days ",
+    "cautions": "1st line treatment: Mechanical plaque control. Consider antibiotics if: Unresponsive to conventional mechanical therapy, Acute infection with systemic manifestation, Medically compromised cases "
+  },
+  {
+    "id": "117",
+    "category": "ORAL/DENTAL INFECTIONS",
+    "condition": "Periodontal Abscess",
+    "organisms": "Periodontal Abscess [cite: 452]",
+    "preferred": "Systemic antibiotic use not recommended ",
+    "alternative": "",
+    "cautions": "Incision and drainage. Management of cause of abscess and symptomatic relief of pain "
+  },
+  {
+    "id": "118",
+    "category": "ORAL/DENTAL INFECTIONS",
+    "condition": "Infections of the Jaws (Dental Origin) - Acute",
+    "organisms": "Infections of the Jaws ",
+    "preferred": "For acute cases, start with: \nAmoxicillin 500mg PO q8hrs for 5-7 days PLUS Metronidazole 400mg PO q8hrs for 5-7days \nOR \nAmoxicillin-clavulanate 625mg PO q8hrs for 5-7 days [cite: 452, 455]",
+    "alternative": "Azithromycin 500mg PO q24hrs for 5-7days \nOR \nCephalexin PO 500mg q12hrs for 5-7 days ",
+    "cautions": "For chronic cases, start with surgical treatment first. Use antibiotics only when causative organisms are identified by culture and sensitivity [cite: 452, 455]"
+  },
+  {
+    "id": "119",
+    "category": "ORAL/DENTAL INFECTIONS",
+    "condition": "Spreading Infections (Cellulitis/Abscess of dental origin)",
+    "organisms": "Viridans Streptococci, Staphylococci, Prevotella, Peptostreptococcus, Fusobacterium, Clostridium spp ",
+    "preferred": "Amoxicillin-clavulanate 1.2 gm IV q8hrs till culture and sensitivity ",
+    "alternative": "Penicillin allergy: \nCeftriaxone 1-2gm IV q24hrs PLUS Metronidazole 500mg IV q8hrs till culture and sensitivity ",
+    "cautions": "Incision and drainage as required. IV to be change into oral based on symptom... "
+  },
+  {
+    "id": "120",
+    "category": "ORAL/DENTAL INFECTIONS",
+    "condition": "Post Implant Infection (\"Periimplantitis\")",
+    "organisms": "Actinomyces spp., Eubacterium spp., Porphyromonas gingivalis, Prevotella intermedia... ",
+    "preferred": "Amoxicillin-clavulanate 625mg PO q8hrs \nOR \nAmoxicillin 500mg PO q8hrs PLUS Metronidazole 400mg PO q8hrs ",
+    "alternative": "Penicillin allergy: \nAzithromycin 500mg PO q12hr for 5-7 days \nOR \nDoxycycline 100mg PO q12hrs for 5-7 days ",
+    "cautions": "Local mechanical and chemical debridement... Bacteria associated with periimplantitis are extremely resistant to antibiotics "
+  },
+  {
+    "id": "121",
+    "category": "ORAL/DENTAL INFECTIONS",
+    "condition": "Antimicrobial use for Viral Infections (Herpes simplex, Varicella-zoster, etc.)",
+    "organisms": "Herpes simplex virus type 1 (HSV-1), HSV-2, Epstein-Barr virus, Varicella-zoster, Coxsackie virus ",
+    "preferred": "Symptomatic treatment in most cases. \nCan also consider: Topical Acyclovir 5% cream ",
+    "alternative": "Systemic antiviral: Acyclovir 400-800mg PO 5 times daily for 7-14 days \nOR \nAcyclovir 400mg 3 times daily for 5 to 10 days in immunocompetent patient... ",
+    "cautions": "*Management is mostly supportive. Antivirals don't have direct effect. "
+  },
+  {
+    "id": "122",
+    "category": "ORAL/DENTAL INFECTIONS",
+    "condition": "Antimicrobial use for Fungal Infections (Candidiasis/ Oral Thrush)",
+    "organisms": "Candidiasis/ Oral Thrush ",
+    "preferred": "Topical Clotrimazole (1%) paint. To be painted 3-4 times per day for 14 days. ",
+    "alternative": "Systemic antifungal agents: Fluconazole 200mg to be dissolved in water and rinsed and spit once a day for 3 days. If symptoms do not improve, 200mg to be dissolved rinsed and swallowed for 14 days. ",
+    "cautions": "Patient to be instructed not spit, swallow or rinse for 30 mins after which it should be rinsed and spit. "
+  }
+]
