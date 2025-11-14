@@ -38,7 +38,7 @@ export default function TabsLayout() {
           tabBarIcon: ({ color, size }) => (
             <Ionicons name="shield-checkmark-outline" size={size} color={color} />
           ),
-          headerTitle: 'WHO AwaRe Classification', // Set a header title
+          headerTitle: 'Aware Guidelines', // Set a header title
         }}
       />
       {/* --- NEW TAB 2: About --- */}

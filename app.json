@@ -4,7 +4,7 @@
     "slug": "treatment",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/treatment-icon.jpg",
     "scheme": "treatment",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
